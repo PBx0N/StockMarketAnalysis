@@ -7,6 +7,7 @@
 '6. Sum the volumn to get total stock volumn in row 4
 '7. Bonus bit - start with finding max, min of percentage and max total val
 '8. Find matching ticker name
+'9. Autofit columns so that it shows the data
 
 
 Sub StockDataSummaryTable()
